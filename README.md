@@ -4,7 +4,7 @@
 
 ## Demo
 
-Insert a GIF or link to a live demo of the project here (if available).
+[Play the game]()
 
 ## How to Run
 
