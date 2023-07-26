@@ -4,7 +4,7 @@
 
 ## Demo
 
-[Play the game]()
+[Play the game]( https://narendar14082000.github.io/PingPongGame/)
 
 ## How to Run
 
